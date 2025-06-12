@@ -1,6 +1,6 @@
 # Process Monitor
 
-This Python script actively monitors running processes on your system, flagging those that exhibit high resource usage (CPU, memory, or disk) or establish network connections. It records these events in an SQLite database for further analysis.
+This Python script actively monitors running processes on your system, flagging those that exhibit high resource usage (CPU, memory, or disk) or those establishing network connections. It records these events in an SQLite database for further analysis.
 
 ## Features
 
